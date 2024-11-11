@@ -1,4 +1,4 @@
-package com.restaurent.order.restaurant_listing_MS;
+package com.restaurant.order.restaurantlisting;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

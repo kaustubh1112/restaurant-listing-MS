@@ -1,13 +1,13 @@
-package com.restaurent.order.restaurant_listing_MS;
+package com.restaurant.order.restaurantlisting;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RestaurantListingMsApplication {
+public class RestaurantListingApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RestaurantListingMsApplication.class, args);
+		SpringApplication.run(RestaurantListingApplication.class, args);
 	}
 
 }
